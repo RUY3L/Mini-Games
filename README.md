@@ -1,2 +1,2 @@
 # Mini-Games
-Mini Games for portfolio
+Old Mini Games I built as coding practice.
